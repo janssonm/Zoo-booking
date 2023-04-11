@@ -1,0 +1,7 @@
+Bear / winter / 9 / 20 / -
+Alpaca / - / 12 / 14 / 13
+Bumblebee / winter / 6 / 23 / -
+Sea lion / - / 6 / 18 / 14
+Seal / - / 6 / 18 / 14
+Wolf / - / 6 / 20 / -
+Moose / - / 7 / 19 / -
